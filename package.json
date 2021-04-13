@@ -29,7 +29,7 @@
     "nodegit": "^0.26.2"
   },
   "dependencies": {
-    "gitlog": "^3.1.2",
+    "gitlog": "^4.0.4",
     "nano": "^8.1.0",
     "typescript": "^3.7.2"
   }
